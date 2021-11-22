@@ -1,0 +1,11 @@
+.container{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between; /*Vai espaçar de maneira igual todos os elementos na horizontal*/
+    margin:0 auto;
+    flex-wrap: wrap; /*Quando ultrapassar, vão para uma nova linha*/
+}
+
+.min-heigh{
+    min-height: 75%;
+}
